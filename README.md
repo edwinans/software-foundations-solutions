@@ -1,2 +1,2 @@
 # software-foundations-solutions
-Personal solutions for the Software Foundations exercises
+Solutions for the [Software Foundations](https://softwarefoundations.cis.upenn.edu/) exercises.
